@@ -14,8 +14,8 @@ async function getAdvice() {
   const adviceBody = document.querySelector(".advice-body");
 
   // Set inner text to loading
-  adviceBody.innerText = "Loading...";
-  adviceId.innerText = "Loading...";
+  adviceBody.innerText = "Getting advice...";
+  adviceId.innerText = "";
 
   // Fetch advice from the API
   const req = await fetch("https://api.adviceslip.com/advice");
