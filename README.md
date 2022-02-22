@@ -13,7 +13,7 @@ The challenge is simple:
 
 ### Deployed using GitHub pages
 
-- You can visit the app here: [Advice Generator](https://romleones.github.io/advice-generator/)
+- You can visit the app here: [Advice Generator](https://rawmayo.github.io/advice-generator/)
 
 ### Built with
 
